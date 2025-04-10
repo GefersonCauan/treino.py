@@ -1,0 +1,3 @@
+Olá, esse é um teste!
+Aprendendo a manipular arquivos em Python.
+ Ola mundo!
